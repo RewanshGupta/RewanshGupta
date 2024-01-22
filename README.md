@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div style="background-color:'Black'">
+<p align="center" >
+  <img src="https://i.postimg.cc/zBgS51js/Obito-Sharingan.gif" height=200px  />
+</p>
+</div>
 <!--
 **RewanshGupta/RewanshGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
